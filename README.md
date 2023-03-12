@@ -32,6 +32,10 @@ The LED based on the feed also comes from the Arduino board
 
 ![image](https://user-images.githubusercontent.com/113125527/224556714-cb1a4706-50f6-46aa-a235-e4b4b9d9f03e.png)
 
+![image](https://user-images.githubusercontent.com/113125527/224557468-75c99c33-dfbb-4ce4-a0f0-03dca3a9871f.png) ![image](https://user-images.githubusercontent.com/113125527/224557518-c549b488-0823-49d3-be7c-79bcdf50e63d.png)
+
+
+
 # RFID Based Automatic Door System
 > RFID locking systems are contactless, meaning that the credential doesn’t have to touch the reader for it to work.
 RFID readers work by sending and receiving data,the data is transmitted over radio frequencies.
